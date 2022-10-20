@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_number"
+        android:icon="@drawable/_688087_ic_fluent_text_word_count_icon"
+        android:title="@string/title_number" />
+
+    <item
+        android:id="@+id/navigation_list"
+        android:icon="@drawable/_844472_hamburger_list_menu_more_navigation_icon"
+        android:title="@string/title_list" />
+
+    <item
+        android:id="@+id/navigation_dice"
+        android:icon="@drawable/_035344_dice_outline_icon"
+        android:title="@string/title_dice" />
+
+    <item
+        android:id="@+id/navigation_coin"
+        android:icon="@drawable/_511323_coin_cryptocurrency_stellar_token_xlm_icon"
+        android:title="@string/title_coin" />
+
+    <item
+        android:id="@+id/navigation_ball"
+        android:icon="@drawable/eight_ball"
+        android:title="@string/title_ball" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Рандомайзе</string>
+    <string name="title_number">Число</string>
+    <string name="title_list">Список</string>
+    <string name="title_dice">Игральные кости</string>
+    <string name="title_coin">Монетка</string>
+    <string name="title_ball">Шар восмерка</string>
+</resources>
